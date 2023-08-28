@@ -1,0 +1,144 @@
+index,time,dataset,n_clusters,cluster,num sample,history turn,data ratio,slot acc,turn acc,dialogue acc,checkpoint,feature
+0,23-07-15 00:18:48,crosswoz,1,0,0,4,10,84.25,82.66,66.0,,transformer
+1,23-07-15 00:28:35,crosswoz,1,0,0,4,10,90.5,89.41,77.31,,transformer
+2,23-07-15 00:38:23,crosswoz,1,0,0,4,10,92.17,91.11,81.64,,transformer
+3,23-07-15 00:48:10,crosswoz,1,0,0,4,10,93.17,92.54,84.04,,transformer
+4,23-07-15 00:58:00,crosswoz,1,0,0,4,10,92.33,91.77,81.8,,transformer
+5,23-07-15 01:07:50,crosswoz,1,0,0,4,10,93.17,92.4,83.97,,transformer
+6,23-07-15 01:20:35,crosswoz,2,0,0,4,10,81.67,80.59,61.95,,transformer
+7,23-07-15 01:29:29,crosswoz,2,1,0,4,10,94.15,92.37,90.72,,transformer
+8,23-07-15 01:39:19,crosswoz,2,0,0,4,10,91.75,90.93,80.4,,transformer
+9,23-07-15 01:48:13,crosswoz,2,1,0,4,10,96.42,94.92,93.81,,transformer
+10,23-07-15 01:58:02,crosswoz,2,0,0,4,10,92.25,91.39,81.76,,transformer
+11,23-07-15 02:07:03,crosswoz,2,1,0,4,10,95.09,93.22,91.75,,transformer
+12,23-07-15 02:16:50,crosswoz,2,0,0,4,10,93.75,93.11,85.87,,transformer
+13,23-07-15 02:25:50,crosswoz,2,1,0,4,10,94.91,93.22,92.44,,transformer
+14,23-07-15 02:35:44,crosswoz,2,0,0,4,10,92.17,91.04,79.41,,transformer
+15,23-07-15 02:45:34,crosswoz,2,0,0,4,10,93.25,92.41,83.41,,transformer
+16,23-07-15 02:57:47,crosswoz,3,0,0,4,10,93.83,93.31,85.12,,transformer
+17,23-07-15 03:06:27,crosswoz,3,1,0,4,10,94.72,92.66,91.07,,transformer
+18,23-07-15 03:16:36,crosswoz,3,2,0,4,10,81.08,79.37,61.93,,transformer
+19,23-07-15 03:26:03,crosswoz,3,0,0,4,10,94.33,93.91,85.17,,transformer
+20,23-07-15 03:34:51,crosswoz,3,1,0,4,10,96.42,95.48,94.5,,transformer
+21,23-07-15 03:45:07,crosswoz,3,2,0,4,10,88.42,87.25,74.57,,transformer
+22,23-07-15 03:54:35,crosswoz,3,0,0,4,10,93.58,92.95,84.43,,transformer
+23,23-07-15 04:03:16,crosswoz,3,1,0,4,10,97.36,96.61,95.88,,transformer
+24,23-07-15 04:13:33,crosswoz,3,2,0,4,10,90.75,89.89,79.43,,transformer
+25,23-07-15 04:22:51,crosswoz,3,0,0,4,10,95.33,94.87,88.43,,transformer
+26,23-07-15 04:31:31,crosswoz,3,1,0,4,10,97.17,96.05,95.19,,transformer
+27,23-07-15 04:41:41,crosswoz,3,2,0,4,10,92.58,91.87,82.94,,transformer
+28,23-07-15 04:51:08,crosswoz,3,0,0,4,10,95.17,94.78,87.83,,transformer
+29,23-07-15 04:59:52,crosswoz,3,1,0,4,10,98.68,98.02,97.59,,transformer
+30,23-07-15 05:10:05,crosswoz,3,2,0,4,10,92.0,91.54,82.53,,transformer
+31,23-07-15 05:19:27,crosswoz,3,0,0,4,10,94.83,94.3,87.09,,transformer
+32,23-07-15 05:28:08,crosswoz,3,1,0,4,10,98.68,98.31,97.94,,transformer
+33,23-07-15 05:38:14,crosswoz,3,2,0,4,10,90.83,89.7,79.91,,transformer
+34,23-07-15 05:46:51,crosswoz,3,1,0,4,10,99.25,98.87,98.63,,transformer
+35,23-07-15 05:55:28,crosswoz,3,1,0,4,10,97.74,96.89,96.56,,transformer
+36,23-07-15 06:04:04,crosswoz,3,1,0,4,10,98.49,98.02,97.94,,transformer
+37,23-07-15 06:17:21,crosswoz,5,0,0,4,10,83.5,82.1,65.71,,transformer
+38,23-07-15 06:25:57,crosswoz,5,1,0,4,10,97.88,97.63,97.56,,transformer
+39,23-07-15 06:35:01,crosswoz,5,2,0,4,10,95.37,94.23,93.43,,transformer
+40,23-07-15 06:43:36,crosswoz,5,3,0,4,10,96.0,95.87,95.76,,transformer
+41,23-07-15 06:52:57,crosswoz,5,4,0,4,10,92.17,91.62,80.49,,transformer
+42,23-07-15 07:03:15,crosswoz,5,0,0,4,10,87.25,85.84,72.71,,transformer
+43,23-07-15 07:11:50,crosswoz,5,1,0,4,10,97.35,97.04,96.95,,transformer
+44,23-07-15 07:20:58,crosswoz,5,2,0,4,10,95.83,94.87,94.16,,transformer
+45,23-07-15 07:29:41,crosswoz,5,3,0,4,10,96.0,95.87,95.76,,transformer
+46,23-07-15 07:39:08,crosswoz,5,4,0,4,10,94.42,93.85,86.25,,transformer
+47,23-07-15 07:49:22,crosswoz,5,0,0,4,10,89.42,88.26,76.79,,transformer
+48,23-07-15 07:58:06,crosswoz,5,1,0,4,10,97.35,97.04,96.95,,transformer
+49,23-07-15 08:07:14,crosswoz,5,2,0,4,10,95.83,94.87,94.16,,transformer
+50,23-07-15 08:15:57,crosswoz,5,3,0,4,10,96.0,95.87,95.76,,transformer
+51,23-07-15 08:25:24,crosswoz,5,4,0,4,10,95.42,95.01,89.28,,transformer
+52,23-07-15 08:35:43,crosswoz,5,0,0,4,10,91.5,90.68,82.33,,transformer
+53,23-07-15 08:44:49,crosswoz,5,2,0,4,10,94.91,93.59,92.7,,transformer
+54,23-07-15 08:54:18,crosswoz,5,4,0,4,10,93.42,92.82,83.98,,transformer
+55,23-07-15 09:04:33,crosswoz,5,0,0,4,10,89.0,87.89,76.32,,transformer
+56,23-07-15 09:13:57,crosswoz,5,4,0,4,10,95.5,95.03,89.11,,transformer
+57,23-07-15 09:24:15,crosswoz,5,0,0,4,10,90.5,89.38,78.73,,transformer
+58,23-07-15 09:33:38,crosswoz,5,4,0,4,10,93.58,93.03,83.37,,transformer
+59,23-07-15 09:43:09,crosswoz,5,4,0,4,10,94.33,93.78,86.24,,transformer
+60,23-07-16 19:40:49,crosswoz,1,0,0,4,10,92.88,88.4,45.0,save/crosswoz/10/4/1-cluster/best,transformer
+61,23-07-16 19:40:53,crosswoz,1,all,0,4,10,92.88,88.4,45.0,save/crosswoz/10/4/1-cluster/best,transformer
+62,23-07-16 19:49:49,crosswoz,2,0,0,4,10,93.45,89.47,48.8,save/crosswoz/10/4/2-cluster/best,transformer
+63,23-07-16 19:50:25,crosswoz,2,1,0,4,10,94.05,91.91,90.13,save/crosswoz/10/4/2-cluster/best,transformer
+64,23-07-16 19:50:29,crosswoz,2,all,0,4,10,93.5,89.01,45.4,save/crosswoz/10/4/2-cluster/best,transformer
+65,23-07-16 19:56:13,crosswoz,3,0,0,4,10,95.42,93.89,69.0,save/crosswoz/10/4/3-cluster/best,transformer
+66,23-07-16 19:56:40,crosswoz,3,1,0,4,10,97.28,96.5,95.72,save/crosswoz/10/4/3-cluster/best,transformer
+67,23-07-16 19:59:40,crosswoz,3,2,0,4,10,91.57,89.97,71.86,save/crosswoz/10/4/3-cluster/best,transformer
+68,23-07-16 19:59:43,crosswoz,3,all,0,4,10,94.42,90.72,51.6,save/crosswoz/10/4/3-cluster/best,transformer
+69,23-07-16 20:03:44,crosswoz,5,0,0,4,10,89.19,86.87,66.8,save/crosswoz/10/4/5-cluster/best,transformer
+70,23-07-16 20:03:51,crosswoz,5,1,0,4,10,98.41,98.19,98.14,save/crosswoz/10/4/5-cluster/best,transformer
+71,23-07-16 20:04:09,crosswoz,5,2,0,4,10,93.56,92.0,91.08,save/crosswoz/10/4/5-cluster/best,transformer
+72,23-07-16 20:04:16,crosswoz,5,3,0,4,10,92.59,91.94,91.74,save/crosswoz/10/4/5-cluster/best,transformer
+73,23-07-16 20:08:57,crosswoz,5,4,0,4,10,95.73,94.28,71.0,save/crosswoz/10/4/5-cluster/best,transformer
+74,23-07-16 20:09:00,crosswoz,5,all,0,4,10,93.69,89.47,48.6,save/crosswoz/10/4/5-cluster/best,transformer
+75,23-08-02 14:33:45,crosswoz,6,0,0,4,10,91.75,91.0,81.33,,embedding
+76,23-08-02 14:42:45,crosswoz,6,1,0,4,10,98.44,98.41,98.39,,embedding
+77,23-08-02 14:51:00,crosswoz,6,2,0,4,10,96.3,95.86,95.73,,embedding
+78,23-08-02 15:00:08,crosswoz,6,3,0,4,10,92.86,92.72,91.97,,embedding
+79,23-08-02 15:10:04,crosswoz,6,4,0,4,10,86.33,85.32,71.18,,embedding
+80,23-08-02 15:19:42,crosswoz,6,5,0,4,10,90.16,90.0,90.0,,embedding
+81,23-08-02 15:28:47,crosswoz,6,0,0,4,10,93.5,92.87,84.35,,embedding
+82,23-08-02 15:37:43,crosswoz,6,1,0,4,10,98.44,98.41,98.39,,embedding
+83,23-08-02 15:45:55,crosswoz,6,2,0,4,10,97.35,97.04,96.95,,embedding
+84,,crosswoz,6,3,0,4,10,94.81,94.7,94.16,,embedding
+85,,crosswoz,6,4,0,4,10,90.42,89.5,79.18,,embedding
+86,,crosswoz,6,5,0,4,10,90.16,90.0,90.0,,embedding
+87,,crosswoz,6,0,0,4,10,94.33,93.96,86.31,,embedding
+88,,crosswoz,6,1,0,4,10,98.44,98.41,98.39,,embedding
+89,,crosswoz,6,2,0,4,10,99.47,99.41,99.39,,embedding
+90,,crosswoz,6,3,0,4,10,93.51,93.38,92.7,,embedding
+91,,crosswoz,6,4,0,4,10,89.83,89.18,78.35,,embedding
+92,,crosswoz,6,5,0,4,10,86.89,88.33,88.33,,embedding
+93,,crosswoz,6,0,0,4,10,95.92,95.59,89.29,,embedding
+94,,crosswoz,6,1,0,4,10,98.44,98.41,98.39,,embedding
+95,,crosswoz,6,2,0,4,10,100.0,100.0,100.0,,embedding
+96,,crosswoz,6,3,0,4,10,90.91,90.73,89.78,,embedding
+97,,crosswoz,6,4,0,4,10,92.58,91.8,83.11,,embedding
+98,,crosswoz,6,5,0,4,10,88.52,90.0,90.0,,embedding
+99,,crosswoz,6,0,0,4,10,96.42,96.06,91.41,,embedding
+100,,crosswoz,6,1,0,4,10,98.44,98.41,98.39,,embedding
+101,,crosswoz,6,2,0,4,10,99.47,99.41,99.39,,embedding
+102,,crosswoz,6,3,0,4,10,92.86,92.72,91.97,,embedding
+103,,crosswoz,6,4,0,4,10,93.58,93.09,84.96,,embedding
+104,,crosswoz,6,5,0,4,10,86.89,88.33,88.33,,embedding
+105,,crosswoz,6,0,0,4,10,95.83,95.4,88.91,,embedding
+106,,crosswoz,6,1,0,4,10,98.44,98.41,98.39,,embedding
+107,,crosswoz,6,2,0,4,10,100.0,100.0,100.0,,embedding
+108,,crosswoz,6,3,0,4,10,96.75,96.69,96.35,,embedding
+109,,crosswoz,6,4,0,4,10,90.08,89.38,78.68,,embedding
+110,,crosswoz,6,5,0,4,10,86.89,86.67,86.67,,embedding
+111,,crosswoz,6,0,0,4,10,96.42,96.08,90.62,,embedding
+112,,crosswoz,6,2,0,4,10,98.94,98.82,98.78,,embedding
+113,,crosswoz,6,3,0,4,10,96.75,96.69,96.35,,embedding
+114,,crosswoz,6,4,0,4,10,92.83,91.96,83.11,,embedding
+115,,crosswoz,6,0,0,4,10,95.92,95.5,90.41,,embedding
+116,,crosswoz,6,2,0,4,10,98.94,98.82,98.78,,embedding
+117,,crosswoz,6,3,0,4,10,95.45,95.36,94.89,,embedding
+118,,crosswoz,6,4,0,4,10,92.5,91.86,83.51,,embedding
+119,,crosswoz,6,0,0,4,10,96.08,95.74,90.27,,embedding
+120,,crosswoz,6,2,0,4,10,97.35,97.04,96.95,,embedding
+121,,crosswoz,6,3,0,4,10,90.26,90.07,89.05,,embedding
+122,,crosswoz,6,4,0,4,10,93.67,92.88,85.04,,embedding
+123,,crosswoz,6,0,0,4,10,96.17,95.76,90.63,,embedding
+124,,crosswoz,6,3,0,4,10,97.4,97.35,97.08,,embedding
+125,,crosswoz,6,4,0,4,10,92.17,91.23,82.38,,embedding
+126,,crosswoz,6,0,0,4,10,95.83,95.5,89.11,,embedding
+127,,crosswoz,6,3,0,4,10,94.16,94.04,93.43,,embedding
+128,,crosswoz,6,0,0,4,10,95.58,95.07,88.77,,embedding
+129,,crosswoz,6,3,0,4,10,95.45,95.36,94.89,,embedding
+130,,crosswoz,6,3,0,4,10,98.05,98.01,97.81,,embedding
+131,,crosswoz,6,3,0,4,10,96.75,96.69,97.08,,embedding
+132,,crosswoz,6,3,0,4,10,92.21,92.05,91.97,,embedding
+133,,crosswoz,6,3,0,4,10,96.1,96.03,95.62,,embedding
+134,,crosswoz,6,3,0,4,10,92.86,92.72,92.7,,embedding
+135,,crosswoz,6,3,0,4,10,95.45,95.36,94.89,,embedding
+136,23-08-02 23:47:34,crosswoz,6,0,0,4,10,96.29,95.01,73.8,save/crosswoz/10/4/6-cluster-embedding/best,embedding
+137,23-08-02 23:47:38,crosswoz,6,1,0,4,10,94.74,94.74,94.67,save/crosswoz/10/4/6-cluster-embedding/best,embedding
+138,23-08-02 23:47:44,crosswoz,6,2,0,4,10,98.41,98.19,98.14,save/crosswoz/10/4/6-cluster-embedding/best,embedding
+139,23-08-02 23:47:58,crosswoz,6,3,0,4,10,92.86,92.57,91.72,save/crosswoz/10/4/6-cluster-embedding/best,embedding
+140,23-08-02 23:50:59,crosswoz,6,4,0,4,10,93.54,92.15,78.14,save/crosswoz/10/4/6-cluster-embedding/best,embedding
+141,23-08-02 23:51:02,crosswoz,6,5,0,4,10,79.66,78.95,78.95,save/crosswoz/10/4/6-cluster-embedding/best,embedding
+142,23-08-02 23:51:05,crosswoz,6,all,0,4,10,95.23,91.81,57.80,save/crosswoz/10/4/6-cluster-embedding/best,embedding
