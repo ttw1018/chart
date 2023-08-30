@@ -8,7 +8,6 @@ import { onMounted, ref } from "vue";
 console.log(localStorage.getItem("activateName"));
 let activeName = ref<string>("few-shot");
 
-var dd = ref(["a", "b", "c"]);
 </script>
 
 <template>
@@ -20,7 +19,7 @@ var dd = ref(["a", "b", "c"]);
       <Cluster />
     </el-tab-pane>
     <el-tab-pane label="few-shot result" name="few-shot">
-      <Table trainType="few-shot" :dddd="dd"></Table>
+      <Table trainType="few-shot"></Table>
     </el-tab-pane>
     <el-tab-pane label="zero-shot result" name="zero-shot">
       <Table trainType="zero-shot"></Table>

@@ -106,28 +106,28 @@ import { update } from "../utils/update";
 import type { TableColumnCtx } from "element-plus";
 import { getData } from "../utils/getData";
 
-// const props = defineProps(["trainType"]);
+const props = defineProps(["trainType"]);
 
-const props = defineProps<{
-  sortKeys: string[];
-  combineColumns: string[];
-  key1s: string[];
-  key2s: string[];
-}>();
+const datasets =
+  props.trainType == "few-shot"
+    ? ["crosswoz", "multiwoz2.2", "sgd"]
+    : ["multiwoz2.1", "multiwoz2.2", "sgd"];
 
-const sortKeys = props.sortKeys;
-const combineColumns = props.combineColumns;
+const sortKeys =
+  props.trainType == "few-shot"
+    ? ["data ratio", "n_clusters"]
+    : ["domain", "n_clusters"];
 
-let sortKey = ref(sortKeys[0]);
+var sortKey = ref(sortKeys[0]);
 
-let key1 = ref(props.key1s[0]);
+var dataset = ref(datasets[0]);
 
 let data = ref([] as { [key: string]: any }[]);
 
 let result: { [key: string]: any } = reactive({});
 
-// let combineColumn = ["dataset", "history turn", "data ratio", "n_clusters"];
-let combineColumn = ["data ratio", "n_clusters", "domain"] as string[];
+let combineColumn = ["dataset", "history turn", "data ratio", "n_clusters"];
+// let combineColumn = ["data ratio", "n_clusters", "domain"] as string[];
 
 let combineInfo: any = {};
 
